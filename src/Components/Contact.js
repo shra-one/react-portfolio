@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
+ 
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -82,9 +82,9 @@ const Contact = ({ data }) => {
 					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {data?.name}<br />
-						   {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
-						   <span>{data?.phone}</span>
+						 
+						   {data?.address.city}, {data?.address.state}  <br />
+						 
 					   </p>
 				   </div>
 

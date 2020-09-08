@@ -19,11 +19,11 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Lots of thanks to the Clever Programmer team  </li>
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
+              <li>&copy; All credit goes to shrawan shrestha - Copyright 2020 Shrawan k. shrestha</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
