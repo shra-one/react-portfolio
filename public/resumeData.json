@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Shrawan K. Shrestha",
+    "occupation": "UI/UX and Frontend Engineer",
+    "description": "I help Clients to build more leads through websites",
+    "image": "shrawan.webp",
+    "bio": "My name is Shrawan, I'm UI/UX and Frontend Engineer. I do freelance and available for full time job as well ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "shrawankumarshrestha@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "Kathmandu",
+      "state": "Nepal",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "shrawan cv july 2020.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/shrawankumarshrestha/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/shrawankumarshrestha/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "http://instagram.com/shrawanshres/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/shra-one",
         "className": "fa fa-github"
       }
     ]
@@ -51,21 +51,21 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Social Network Norway",
+        "title": "Social Media Designer",
+        "years": "Jan 2013 - Nov 2015",
+        "description": "Designed custome facebook fanpages, develop using php/MySQL, HTML, Sass."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Accessible ICT",
+        "title": "UI/UX and FrontEnd Engineer",
+        "years": "Nov 2014 - Sep 2019",
+        "description": "Design UI mockups and Convert designs to html/css/scss"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Figma",
         "level": "100%"
       },
       {
@@ -77,17 +77,14 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "ReactJs",
+        "level": "30%"
       },
       {
         "name": "HTML5",
         "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
+ 
     ]
   },
   "portfolio": {
@@ -131,7 +128,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Shrawan must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
